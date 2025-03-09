@@ -1,14 +1,4 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-}
-header {
-    background: #007BFF;
-    color: white;
-    padding: 10px;
-}
-nav a {
-    margin: 10px;
-    color: white;
-    text-decoration: none;
-}
+body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
+header { background: #007BFF; color: white; padding: 15px; }
+nav a { margin: 10px; color: white; text-decoration: none; }
+.entry { border-bottom: 1px solid #ddd; padding: 10px; }
