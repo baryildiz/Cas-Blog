@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAS Blog</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 20px; }
+        header { text-align: center; font-size: 24px; font-weight: bold; }
+        nav { text-align: center; margin: 20px; }
+        nav a { margin: 0 15px; text-decoration: none; color: blue; }
+        .entry { border-bottom: 1px solid #ddd; padding: 10px 0; }
+    </style>
+</head>
+<body>
+    <header>CAS Blog</header>
+    <nav>
+        <a href="#creativity">Creativity</a>
+        <a href="#activity">Activity</a>
+        <a href="#service">Service</a>
+    </nav>
+    <section id="creativity">
+        <h2>Creativity</h2>
+        <div class="entry">
+            <h3>Project Title</h3>
+            <p>Description of the creative experience.</p>
+        </div>
+    </section>
+    <section id="activity">
+        <h2>Activity</h2>
+        <div class="entry">
+            <h3>Project Title</h3>
+            <p>Description of the activity experience.</p>
+        </div>
+    </section>
+    <section id="service">
+        <h2>Service</h2>
+        <div class="entry">
+            <h3>Project Title</h3>
+            <p>Description of the service experience.</p>
+        </div>
+    </section>
+</body>
+</html>
